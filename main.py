@@ -34,7 +34,10 @@ tocke = np.array(tocke)
 n=len(tocke)
 
 
+"""
+doda sam kometar sta radi ova funkcij
 
+"""
 # ČITANJE IZ DATOTEKE .obj
 with open("prica.txt", "r") as f:
     txt=f.readlines()
